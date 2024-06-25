@@ -1,0 +1,820 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		5D25E9302BA9A28E00574976 /* strc5.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5D25E9122BA9A28E00574976 /* strc5.mov */; };
+		5D25E9312BA9A28E00574976 /* strc1.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5D25E9132BA9A28E00574976 /* strc1.mov */; };
+		5D25E9322BA9A28E00574976 /* pilates1.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5D25E9142BA9A28E00574976 /* pilates1.mov */; };
+		5D25E9332BA9A28E00574976 /* pilates5.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5D25E9152BA9A28E00574976 /* pilates5.mov */; };
+		5D25E9342BA9A28E00574976 /* TB3.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5D25E9162BA9A28E00574976 /* TB3.mov */; };
+		5D25E9352BA9A28E00574976 /* pelvico3.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5D25E9172BA9A28E00574976 /* pelvico3.mov */; };
+		5D25E9362BA9A28E00574976 /* pelvico1.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5D25E9182BA9A28E00574976 /* pelvico1.mov */; };
+		5D25E9372BA9A28E00574976 /* yoga5.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5D25E9192BA9A28E00574976 /* yoga5.mov */; };
+		5D25E9392BA9A28E00574976 /* pilates2.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5D25E91B2BA9A28E00574976 /* pilates2.mov */; };
+		5D25E93A2BA9A28E00574976 /* pelvico4.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5D25E91C2BA9A28E00574976 /* pelvico4.mov */; };
+		5D25E93B2BA9A28E00574976 /* yoga3.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5D25E91D2BA9A28E00574976 /* yoga3.mov */; };
+		5D25E93C2BA9A28E00574976 /* strc4.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5D25E91E2BA9A28E00574976 /* strc4.mov */; };
+		5D25E93D2BA9A28E00574976 /* strc6.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5D25E91F2BA9A28E00574976 /* strc6.mov */; };
+		5D25E93E2BA9A28E00574976 /* yoga1.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5D25E9202BA9A28E00574976 /* yoga1.mov */; };
+		5D25E93F2BA9A28E00574976 /* pelvico5.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5D25E9212BA9A28E00574976 /* pelvico5.mov */; };
+		5D25E9402BA9A28E00574976 /* yoga6.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5D25E9222BA9A28E00574976 /* yoga6.mov */; };
+		5D25E9412BA9A28E00574976 /* TB2.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5D25E9232BA9A28E00574976 /* TB2.mov */; };
+		5D25E9422BA9A28E00574976 /* pilates4.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5D25E9242BA9A28E00574976 /* pilates4.mov */; };
+		5D25E9432BA9A28E00574976 /* pelvico6.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5D25E9252BA9A28E00574976 /* pelvico6.mov */; };
+		5D25E9442BA9A28E00574976 /* yoga2.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5D25E9262BA9A28E00574976 /* yoga2.mov */; };
+		5D25E9452BA9A28E00574976 /* pilates6.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5D25E9272BA9A28E00574976 /* pilates6.mov */; };
+		5D25E9462BA9A28E00574976 /* strc2.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5D25E9282BA9A28E00574976 /* strc2.mov */; };
+		5D25E9472BA9A28E00574976 /* yoga4.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5D25E9292BA9A28E00574976 /* yoga4.mov */; };
+		5D25E9482BA9A28E00574976 /* pelvico2.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5D25E92A2BA9A28E00574976 /* pelvico2.mov */; };
+		5D25E9492BA9A28E00574976 /* strc3.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5D25E92B2BA9A28E00574976 /* strc3.mov */; };
+		5D25E94A2BA9A28E00574976 /* pilates3.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5D25E92C2BA9A28E00574976 /* pilates3.mov */; };
+		5D25E94B2BA9A28E00574976 /* song.mpeg in Resources */ = {isa = PBXBuildFile; fileRef = 5D25E92D2BA9A28E00574976 /* song.mpeg */; };
+		5D25E94C2BA9A28E00574976 /* TB4.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5D25E92E2BA9A28E00574976 /* TB4.mov */; };
+		5D25E94D2BA9A28E00574976 /* TB1.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5D25E92F2BA9A28E00574976 /* TB1.mov */; };
+		5D6848522BA89ED500682920 /* notifiche.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D6848512BA89ED500682920 /* notifiche.swift */; };
+		5D6D534B2BA5AD11009B08A8 /* Pelvici.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D6D534A2BA5AD11009B08A8 /* Pelvici.swift */; };
+		5D6D534D2BA5AD19009B08A8 /* Yoga.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D6D534C2BA5AD19009B08A8 /* Yoga.swift */; };
+		5D6D534F2BA5AD33009B08A8 /* TotalBody.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D6D534E2BA5AD33009B08A8 /* TotalBody.swift */; };
+		5D6D53512BA5AD53009B08A8 /* Stretching.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D6D53502BA5AD53009B08A8 /* Stretching.swift */; };
+		5D6D53532BA5AD64009B08A8 /* Pilates.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D6D53522BA5AD64009B08A8 /* Pilates.swift */; };
+		5D6D53592BA5C7AC009B08A8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5D6D53582BA5C7AB009B08A8 /* Assets.xcassets */; };
+		5D6D535B2BA61702009B08A8 /* ConnectivityWatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D6D535A2BA61701009B08A8 /* ConnectivityWatch.swift */; };
+		5D6DB2BE2BA59B28007260D9 /* ConnectivityIos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D6DB2BD2BA59B28007260D9 /* ConnectivityIos.swift */; };
+		5D8280802B8F7CFE00C7A3E5 /* DiaryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D82807F2B8F7CFE00C7A3E5 /* DiaryView.swift */; };
+		5D8280822B8F7D3400C7A3E5 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D8280812B8F7D3400C7A3E5 /* ImagePicker.swift */; };
+		5D8280842B8F7D4900C7A3E5 /* photoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D8280832B8F7D4900C7A3E5 /* photoView.swift */; };
+		5D8280862B8F7D6000C7A3E5 /* manageImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D8280852B8F7D6000C7A3E5 /* manageImage.swift */; };
+		5D88B1252BA4ABE900B38B26 /* AllExcersicesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D88B1242BA4ABE900B38B26 /* AllExcersicesView.swift */; };
+		5D88B1272BA4AC3200B38B26 /* funzioniEsercizizi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D88B1262BA4AC3200B38B26 /* funzioniEsercizizi.swift */; };
+		5D88B1292BA4B7BE00B38B26 /* contactPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D88B1282BA4B7BE00B38B26 /* contactPicker.swift */; };
+		C6143CEE2B9F44C1005120F5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6143CEA2B9F44C1005120F5 /* ContentView.swift */; };
+		C6143CEF2B9F44C1005120F5 /* Fitness.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6143CEB2B9F44C1005120F5 /* Fitness.swift */; };
+		C6143CF02B9F44C1005120F5 /* countKick.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6143CEC2B9F44C1005120F5 /* countKick.swift */; };
+		C631C5E82B7CB216009077CE /* HomePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = C631C5E72B7CB216009077CE /* HomePage.swift */; };
+		C6461C3F2B7A3327001B73D0 /* B_BApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6461C3E2B7A3327001B73D0 /* B_BApp.swift */; };
+		C6461C412B7A3327001B73D0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6461C402B7A3327001B73D0 /* ContentView.swift */; };
+		C6461C432B7A3328001B73D0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C6461C422B7A3328001B73D0 /* Assets.xcassets */; };
+		C6461C462B7A3328001B73D0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C6461C452B7A3328001B73D0 /* Preview Assets.xcassets */; };
+		C6461C4C2B7A3329001B73D0 /* B&B Watch App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = C6461C4B2B7A3329001B73D0 /* B&B Watch App.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		C6461C512B7A3329001B73D0 /* B_BApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6461C502B7A3329001B73D0 /* B_BApp.swift */; };
+		C6461C582B7A3329001B73D0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C6461C572B7A3329001B73D0 /* Preview Assets.xcassets */; };
+		C6461C632B7A39EB001B73D0 /* HealthKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6461C622B7A39EB001B73D0 /* HealthKit.swift */; };
+		C6461C652B7A3A43001B73D0 /* Credenziali.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6461C642B7A3A43001B73D0 /* Credenziali.swift */; };
+		C6BE2DE32B85EDAA00B83CB0 /* Impostazioni.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6BE2DE22B85EDAA00B83CB0 /* Impostazioni.swift */; };
+		C6BE2DF12B8631BD00B83CB0 /* DatiGlobali.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6BE2DF02B8631BD00B83CB0 /* DatiGlobali.swift */; };
+		C6D3ADD32B95F9EF0080DEEB /* CategorieEx.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6D3ADD22B95F9EF0080DEEB /* CategorieEx.swift */; };
+		C6D3ADD52B95FA260080DEEB /* EserciziConsigliati.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6D3ADD42B95FA260080DEEB /* EserciziConsigliati.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		C6461C4D2B7A3329001B73D0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C6461C332B7A3326001B73D0 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = C6461C4A2B7A3329001B73D0;
+			remoteInfo = "B&B Watch App";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		C6461C5E2B7A3329001B73D0 /* Embed Watch Content */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "$(CONTENTS_FOLDER_PATH)/Watch";
+			dstSubfolderSpec = 16;
+			files = (
+				C6461C4C2B7A3329001B73D0 /* B&B Watch App.app in Embed Watch Content */,
+			);
+			name = "Embed Watch Content";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		5D25E9122BA9A28E00574976 /* strc5.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = strc5.mov; path = "../../../../Downloads/video_iOS copia/strc5.mov"; sourceTree = "<group>"; };
+		5D25E9132BA9A28E00574976 /* strc1.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = strc1.mov; path = "../../../../Downloads/video_iOS copia/strc1.mov"; sourceTree = "<group>"; };
+		5D25E9142BA9A28E00574976 /* pilates1.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = pilates1.mov; path = "../../../../Downloads/video_iOS copia/pilates1.mov"; sourceTree = "<group>"; };
+		5D25E9152BA9A28E00574976 /* pilates5.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = pilates5.mov; path = "../../../../Downloads/video_iOS copia/pilates5.mov"; sourceTree = "<group>"; };
+		5D25E9162BA9A28E00574976 /* TB3.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = TB3.mov; path = "../../../../Downloads/video_iOS copia/TB3.mov"; sourceTree = "<group>"; };
+		5D25E9172BA9A28E00574976 /* pelvico3.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = pelvico3.mov; path = "../../../../Downloads/video_iOS copia/pelvico3.mov"; sourceTree = "<group>"; };
+		5D25E9182BA9A28E00574976 /* pelvico1.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = pelvico1.mov; path = "../../../../Downloads/video_iOS copia/pelvico1.mov"; sourceTree = "<group>"; };
+		5D25E9192BA9A28E00574976 /* yoga5.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = yoga5.mov; path = "../../../../Downloads/video_iOS copia/yoga5.mov"; sourceTree = "<group>"; };
+		5D25E91B2BA9A28E00574976 /* pilates2.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = pilates2.mov; path = "../../../../Downloads/video_iOS copia/pilates2.mov"; sourceTree = "<group>"; };
+		5D25E91C2BA9A28E00574976 /* pelvico4.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = pelvico4.mov; path = "../../../../Downloads/video_iOS copia/pelvico4.mov"; sourceTree = "<group>"; };
+		5D25E91D2BA9A28E00574976 /* yoga3.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = yoga3.mov; path = "../../../../Downloads/video_iOS copia/yoga3.mov"; sourceTree = "<group>"; };
+		5D25E91E2BA9A28E00574976 /* strc4.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = strc4.mov; path = "../../../../Downloads/video_iOS copia/strc4.mov"; sourceTree = "<group>"; };
+		5D25E91F2BA9A28E00574976 /* strc6.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = strc6.mov; path = "../../../../Downloads/video_iOS copia/strc6.mov"; sourceTree = "<group>"; };
+		5D25E9202BA9A28E00574976 /* yoga1.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = yoga1.mov; path = "../../../../Downloads/video_iOS copia/yoga1.mov"; sourceTree = "<group>"; };
+		5D25E9212BA9A28E00574976 /* pelvico5.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = pelvico5.mov; path = "../../../../Downloads/video_iOS copia/pelvico5.mov"; sourceTree = "<group>"; };
+		5D25E9222BA9A28E00574976 /* yoga6.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = yoga6.mov; path = "../../../../Downloads/video_iOS copia/yoga6.mov"; sourceTree = "<group>"; };
+		5D25E9232BA9A28E00574976 /* TB2.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = TB2.mov; path = "../../../../Downloads/video_iOS copia/TB2.mov"; sourceTree = "<group>"; };
+		5D25E9242BA9A28E00574976 /* pilates4.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = pilates4.mov; path = "../../../../Downloads/video_iOS copia/pilates4.mov"; sourceTree = "<group>"; };
+		5D25E9252BA9A28E00574976 /* pelvico6.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = pelvico6.mov; path = "../../../../Downloads/video_iOS copia/pelvico6.mov"; sourceTree = "<group>"; };
+		5D25E9262BA9A28E00574976 /* yoga2.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = yoga2.mov; path = "../../../../Downloads/video_iOS copia/yoga2.mov"; sourceTree = "<group>"; };
+		5D25E9272BA9A28E00574976 /* pilates6.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = pilates6.mov; path = "../../../../Downloads/video_iOS copia/pilates6.mov"; sourceTree = "<group>"; };
+		5D25E9282BA9A28E00574976 /* strc2.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = strc2.mov; path = "../../../../Downloads/video_iOS copia/strc2.mov"; sourceTree = "<group>"; };
+		5D25E9292BA9A28E00574976 /* yoga4.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = yoga4.mov; path = "../../../../Downloads/video_iOS copia/yoga4.mov"; sourceTree = "<group>"; };
+		5D25E92A2BA9A28E00574976 /* pelvico2.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = pelvico2.mov; path = "../../../../Downloads/video_iOS copia/pelvico2.mov"; sourceTree = "<group>"; };
+		5D25E92B2BA9A28E00574976 /* strc3.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = strc3.mov; path = "../../../../Downloads/video_iOS copia/strc3.mov"; sourceTree = "<group>"; };
+		5D25E92C2BA9A28E00574976 /* pilates3.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = pilates3.mov; path = "../../../../Downloads/video_iOS copia/pilates3.mov"; sourceTree = "<group>"; };
+		5D25E92D2BA9A28E00574976 /* song.mpeg */ = {isa = PBXFileReference; lastKnownFileType = video.mpeg; name = song.mpeg; path = "../../../../Downloads/video_iOS copia/song.mpeg"; sourceTree = "<group>"; };
+		5D25E92E2BA9A28E00574976 /* TB4.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = TB4.mov; path = "../../../../Downloads/video_iOS copia/TB4.mov"; sourceTree = "<group>"; };
+		5D25E92F2BA9A28E00574976 /* TB1.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = TB1.mov; path = "../../../../Downloads/video_iOS copia/TB1.mov"; sourceTree = "<group>"; };
+		5D6848512BA89ED500682920 /* notifiche.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = notifiche.swift; sourceTree = "<group>"; };
+		5D6D534A2BA5AD11009B08A8 /* Pelvici.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pelvici.swift; sourceTree = "<group>"; };
+		5D6D534C2BA5AD19009B08A8 /* Yoga.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Yoga.swift; sourceTree = "<group>"; };
+		5D6D534E2BA5AD33009B08A8 /* TotalBody.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TotalBody.swift; sourceTree = "<group>"; };
+		5D6D53502BA5AD53009B08A8 /* Stretching.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stretching.swift; sourceTree = "<group>"; };
+		5D6D53522BA5AD64009B08A8 /* Pilates.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pilates.swift; sourceTree = "<group>"; };
+		5D6D53582BA5C7AB009B08A8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		5D6D535A2BA61701009B08A8 /* ConnectivityWatch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConnectivityWatch.swift; sourceTree = "<group>"; };
+		5D6DB2BD2BA59B28007260D9 /* ConnectivityIos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConnectivityIos.swift; sourceTree = "<group>"; };
+		5D82807F2B8F7CFE00C7A3E5 /* DiaryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiaryView.swift; sourceTree = "<group>"; };
+		5D8280812B8F7D3400C7A3E5 /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
+		5D8280832B8F7D4900C7A3E5 /* photoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = photoView.swift; sourceTree = "<group>"; };
+		5D8280852B8F7D6000C7A3E5 /* manageImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = manageImage.swift; sourceTree = "<group>"; };
+		5D88B1242BA4ABE900B38B26 /* AllExcersicesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllExcersicesView.swift; sourceTree = "<group>"; };
+		5D88B1262BA4AC3200B38B26 /* funzioniEsercizizi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = funzioniEsercizizi.swift; sourceTree = "<group>"; };
+		5D88B1282BA4B7BE00B38B26 /* contactPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = contactPicker.swift; sourceTree = "<group>"; };
+		5D88B12D2BA4E1B500B38B26 /* B-B-Watch-App-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "B-B-Watch-App-Info.plist"; sourceTree = SOURCE_ROOT; };
+		C6143CEA2B9F44C1005120F5 /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		C6143CEB2B9F44C1005120F5 /* Fitness.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Fitness.swift; sourceTree = "<group>"; };
+		C6143CEC2B9F44C1005120F5 /* countKick.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = countKick.swift; sourceTree = "<group>"; };
+		C631C5E52B7A6A1C009077CE /* B-B-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "B-B-Info.plist"; sourceTree = SOURCE_ROOT; };
+		C631C5E62B7A6A6F009077CE /* B&B.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "B&B.entitlements"; sourceTree = "<group>"; };
+		C631C5E72B7CB216009077CE /* HomePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePage.swift; sourceTree = "<group>"; };
+		C6461C3B2B7A3326001B73D0 /* B&B.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "B&B.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C6461C3E2B7A3327001B73D0 /* B_BApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = B_BApp.swift; sourceTree = "<group>"; };
+		C6461C402B7A3327001B73D0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		C6461C422B7A3328001B73D0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		C6461C452B7A3328001B73D0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C6461C4B2B7A3329001B73D0 /* B&B Watch App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "B&B Watch App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C6461C502B7A3329001B73D0 /* B_BApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = B_BApp.swift; sourceTree = "<group>"; };
+		C6461C572B7A3329001B73D0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C6461C622B7A39EB001B73D0 /* HealthKit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HealthKit.swift; sourceTree = "<group>"; };
+		C6461C642B7A3A43001B73D0 /* Credenziali.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Credenziali.swift; sourceTree = "<group>"; };
+		C6BE2DE22B85EDAA00B83CB0 /* Impostazioni.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Impostazioni.swift; sourceTree = "<group>"; };
+		C6BE2DF02B8631BD00B83CB0 /* DatiGlobali.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatiGlobali.swift; sourceTree = "<group>"; };
+		C6D3ADD22B95F9EF0080DEEB /* CategorieEx.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategorieEx.swift; sourceTree = "<group>"; };
+		C6D3ADD42B95FA260080DEEB /* EserciziConsigliati.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EserciziConsigliati.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C6461C382B7A3326001B73D0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C6461C482B7A3329001B73D0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		5D6D53542BA5AE2D009B08A8 /* Categorie */ = {
+			isa = PBXGroup;
+			children = (
+				5D6D53522BA5AD64009B08A8 /* Pilates.swift */,
+				5D6D53502BA5AD53009B08A8 /* Stretching.swift */,
+				5D6D534E2BA5AD33009B08A8 /* TotalBody.swift */,
+				5D6D534A2BA5AD11009B08A8 /* Pelvici.swift */,
+				5D6D534C2BA5AD19009B08A8 /* Yoga.swift */,
+			);
+			path = Categorie;
+			sourceTree = "<group>";
+		};
+		5D6D53552BA5B536009B08A8 /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				C6461C422B7A3328001B73D0 /* Assets.xcassets */,
+			);
+			path = Assets;
+			sourceTree = "<group>";
+		};
+		5D82807E2B8F7CE200C7A3E5 /* DiaryView */ = {
+			isa = PBXGroup;
+			children = (
+				5D82807F2B8F7CFE00C7A3E5 /* DiaryView.swift */,
+				5D8280812B8F7D3400C7A3E5 /* ImagePicker.swift */,
+				5D8280832B8F7D4900C7A3E5 /* photoView.swift */,
+				5D8280852B8F7D6000C7A3E5 /* manageImage.swift */,
+			);
+			path = DiaryView;
+			sourceTree = "<group>";
+		};
+		5D8280872B8F7D8100C7A3E5 /* Video */ = {
+			isa = PBXGroup;
+			children = (
+				5D25E9182BA9A28E00574976 /* pelvico1.mov */,
+				5D25E92A2BA9A28E00574976 /* pelvico2.mov */,
+				5D25E9172BA9A28E00574976 /* pelvico3.mov */,
+				5D25E91C2BA9A28E00574976 /* pelvico4.mov */,
+				5D25E9212BA9A28E00574976 /* pelvico5.mov */,
+				5D25E9252BA9A28E00574976 /* pelvico6.mov */,
+				5D25E9142BA9A28E00574976 /* pilates1.mov */,
+				5D25E91B2BA9A28E00574976 /* pilates2.mov */,
+				5D25E92C2BA9A28E00574976 /* pilates3.mov */,
+				5D25E9242BA9A28E00574976 /* pilates4.mov */,
+				5D25E9152BA9A28E00574976 /* pilates5.mov */,
+				5D25E9272BA9A28E00574976 /* pilates6.mov */,
+				5D25E92D2BA9A28E00574976 /* song.mpeg */,
+				5D25E9132BA9A28E00574976 /* strc1.mov */,
+				5D25E9282BA9A28E00574976 /* strc2.mov */,
+				5D25E92B2BA9A28E00574976 /* strc3.mov */,
+				5D25E91E2BA9A28E00574976 /* strc4.mov */,
+				5D25E9122BA9A28E00574976 /* strc5.mov */,
+				5D25E91F2BA9A28E00574976 /* strc6.mov */,
+				5D25E92F2BA9A28E00574976 /* TB1.mov */,
+				5D25E9232BA9A28E00574976 /* TB2.mov */,
+				5D25E9162BA9A28E00574976 /* TB3.mov */,
+				5D25E92E2BA9A28E00574976 /* TB4.mov */,
+				5D25E9202BA9A28E00574976 /* yoga1.mov */,
+				5D25E9262BA9A28E00574976 /* yoga2.mov */,
+				5D25E91D2BA9A28E00574976 /* yoga3.mov */,
+				5D25E9292BA9A28E00574976 /* yoga4.mov */,
+				5D25E9192BA9A28E00574976 /* yoga5.mov */,
+				5D25E9222BA9A28E00574976 /* yoga6.mov */,
+			);
+			path = Video;
+			sourceTree = "<group>";
+		};
+		5D88B1232BA4ABD000B38B26 /* Esercizi */ = {
+			isa = PBXGroup;
+			children = (
+				5D6D53542BA5AE2D009B08A8 /* Categorie */,
+				C6D3ADD22B95F9EF0080DEEB /* CategorieEx.swift */,
+				5D88B1262BA4AC3200B38B26 /* funzioniEsercizizi.swift */,
+				5D88B1242BA4ABE900B38B26 /* AllExcersicesView.swift */,
+				C6D3ADD42B95FA260080DEEB /* EserciziConsigliati.swift */,
+			);
+			path = Esercizi;
+			sourceTree = "<group>";
+		};
+		5D88B12A2BA4E13700B38B26 /* InitialView */ = {
+			isa = PBXGroup;
+			children = (
+				C6461C642B7A3A43001B73D0 /* Credenziali.swift */,
+				5D88B1282BA4B7BE00B38B26 /* contactPicker.swift */,
+			);
+			path = InitialView;
+			sourceTree = "<group>";
+		};
+		C6461C322B7A3326001B73D0 = {
+			isa = PBXGroup;
+			children = (
+				C6461C3D2B7A3326001B73D0 /* B&B */,
+				C6461C4F2B7A3329001B73D0 /* B&B Watch App */,
+				C6461C3C2B7A3326001B73D0 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C6461C3C2B7A3326001B73D0 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C6461C3B2B7A3326001B73D0 /* B&B.app */,
+				C6461C4B2B7A3329001B73D0 /* B&B Watch App.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C6461C3D2B7A3326001B73D0 /* B&B */ = {
+			isa = PBXGroup;
+			children = (
+				C631C5E62B7A6A6F009077CE /* B&B.entitlements */,
+				C631C5E52B7A6A1C009077CE /* B-B-Info.plist */,
+				C6461C3E2B7A3327001B73D0 /* B_BApp.swift */,
+				C6461C402B7A3327001B73D0 /* ContentView.swift */,
+				5D6DB2BD2BA59B28007260D9 /* ConnectivityIos.swift */,
+				C6BE2DE22B85EDAA00B83CB0 /* Impostazioni.swift */,
+				C631C5E72B7CB216009077CE /* HomePage.swift */,
+				5D88B12A2BA4E13700B38B26 /* InitialView */,
+				5D88B1232BA4ABD000B38B26 /* Esercizi */,
+				5D82807E2B8F7CE200C7A3E5 /* DiaryView */,
+				C6BE2DF02B8631BD00B83CB0 /* DatiGlobali.swift */,
+				C6461C622B7A39EB001B73D0 /* HealthKit.swift */,
+				5D6D53552BA5B536009B08A8 /* Assets */,
+				5D8280872B8F7D8100C7A3E5 /* Video */,
+				C6461C442B7A3328001B73D0 /* Preview Content */,
+			);
+			path = "B&B";
+			sourceTree = "<group>";
+		};
+		C6461C442B7A3328001B73D0 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				C6461C452B7A3328001B73D0 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		C6461C4F2B7A3329001B73D0 /* B&B Watch App */ = {
+			isa = PBXGroup;
+			children = (
+				5D88B12D2BA4E1B500B38B26 /* B-B-Watch-App-Info.plist */,
+				C6461C502B7A3329001B73D0 /* B_BApp.swift */,
+				C6143CEA2B9F44C1005120F5 /* ContentView.swift */,
+				5D6848512BA89ED500682920 /* notifiche.swift */,
+				C6143CEC2B9F44C1005120F5 /* countKick.swift */,
+				C6143CEB2B9F44C1005120F5 /* Fitness.swift */,
+				5D6D535A2BA61701009B08A8 /* ConnectivityWatch.swift */,
+				5D6D53582BA5C7AB009B08A8 /* Assets.xcassets */,
+				C6461C562B7A3329001B73D0 /* Preview Content */,
+			);
+			path = "B&B Watch App";
+			sourceTree = "<group>";
+		};
+		C6461C562B7A3329001B73D0 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				C6461C572B7A3329001B73D0 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C6461C3A2B7A3326001B73D0 /* B&B */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C6461C5F2B7A3329001B73D0 /* Build configuration list for PBXNativeTarget "B&B" */;
+			buildPhases = (
+				C6461C372B7A3326001B73D0 /* Sources */,
+				C6461C382B7A3326001B73D0 /* Frameworks */,
+				C6461C392B7A3326001B73D0 /* Resources */,
+				C6461C5E2B7A3329001B73D0 /* Embed Watch Content */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				C6461C4E2B7A3329001B73D0 /* PBXTargetDependency */,
+			);
+			name = "B&B";
+			productName = "B&B";
+			productReference = C6461C3B2B7A3326001B73D0 /* B&B.app */;
+			productType = "com.apple.product-type.application";
+		};
+		C6461C4A2B7A3329001B73D0 /* B&B Watch App */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C6461C5B2B7A3329001B73D0 /* Build configuration list for PBXNativeTarget "B&B Watch App" */;
+			buildPhases = (
+				C6461C472B7A3329001B73D0 /* Sources */,
+				C6461C482B7A3329001B73D0 /* Frameworks */,
+				C6461C492B7A3329001B73D0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "B&B Watch App";
+			productName = "B&B Watch App";
+			productReference = C6461C4B2B7A3329001B73D0 /* B&B Watch App.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C6461C332B7A3326001B73D0 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1520;
+				LastUpgradeCheck = 1520;
+				TargetAttributes = {
+					C6461C3A2B7A3326001B73D0 = {
+						CreatedOnToolsVersion = 15.2;
+					};
+					C6461C4A2B7A3329001B73D0 = {
+						CreatedOnToolsVersion = 15.2;
+					};
+				};
+			};
+			buildConfigurationList = C6461C362B7A3326001B73D0 /* Build configuration list for PBXProject "B&B" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = C6461C322B7A3326001B73D0;
+			productRefGroup = C6461C3C2B7A3326001B73D0 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C6461C3A2B7A3326001B73D0 /* B&B */,
+				C6461C4A2B7A3329001B73D0 /* B&B Watch App */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C6461C392B7A3326001B73D0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5D25E9492BA9A28E00574976 /* strc3.mov in Resources */,
+				5D25E9392BA9A28E00574976 /* pilates2.mov in Resources */,
+				C6461C462B7A3328001B73D0 /* Preview Assets.xcassets in Resources */,
+				5D25E9432BA9A28E00574976 /* pelvico6.mov in Resources */,
+				5D25E9352BA9A28E00574976 /* pelvico3.mov in Resources */,
+				5D25E94A2BA9A28E00574976 /* pilates3.mov in Resources */,
+				5D25E94C2BA9A28E00574976 /* TB4.mov in Resources */,
+				5D25E9462BA9A28E00574976 /* strc2.mov in Resources */,
+				5D25E9412BA9A28E00574976 /* TB2.mov in Resources */,
+				5D25E9442BA9A28E00574976 /* yoga2.mov in Resources */,
+				5D25E9342BA9A28E00574976 /* TB3.mov in Resources */,
+				5D25E93F2BA9A28E00574976 /* pelvico5.mov in Resources */,
+				5D25E9302BA9A28E00574976 /* strc5.mov in Resources */,
+				5D25E94D2BA9A28E00574976 /* TB1.mov in Resources */,
+				5D25E9372BA9A28E00574976 /* yoga5.mov in Resources */,
+				5D25E9422BA9A28E00574976 /* pilates4.mov in Resources */,
+				5D25E9452BA9A28E00574976 /* pilates6.mov in Resources */,
+				5D25E9312BA9A28E00574976 /* strc1.mov in Resources */,
+				5D25E9402BA9A28E00574976 /* yoga6.mov in Resources */,
+				5D25E93B2BA9A28E00574976 /* yoga3.mov in Resources */,
+				5D25E9362BA9A28E00574976 /* pelvico1.mov in Resources */,
+				5D25E93C2BA9A28E00574976 /* strc4.mov in Resources */,
+				5D25E93E2BA9A28E00574976 /* yoga1.mov in Resources */,
+				5D25E93D2BA9A28E00574976 /* strc6.mov in Resources */,
+				5D25E9472BA9A28E00574976 /* yoga4.mov in Resources */,
+				5D25E9332BA9A28E00574976 /* pilates5.mov in Resources */,
+				5D25E94B2BA9A28E00574976 /* song.mpeg in Resources */,
+				5D25E9482BA9A28E00574976 /* pelvico2.mov in Resources */,
+				5D25E93A2BA9A28E00574976 /* pelvico4.mov in Resources */,
+				5D25E9322BA9A28E00574976 /* pilates1.mov in Resources */,
+				C6461C432B7A3328001B73D0 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C6461C492B7A3329001B73D0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5D6D53592BA5C7AC009B08A8 /* Assets.xcassets in Resources */,
+				C6461C582B7A3329001B73D0 /* Preview Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C6461C372B7A3326001B73D0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5D8280842B8F7D4900C7A3E5 /* photoView.swift in Sources */,
+				5D6DB2BE2BA59B28007260D9 /* ConnectivityIos.swift in Sources */,
+				5D6D53512BA5AD53009B08A8 /* Stretching.swift in Sources */,
+				C631C5E82B7CB216009077CE /* HomePage.swift in Sources */,
+				C6461C632B7A39EB001B73D0 /* HealthKit.swift in Sources */,
+				5D6D534F2BA5AD33009B08A8 /* TotalBody.swift in Sources */,
+				C6BE2DE32B85EDAA00B83CB0 /* Impostazioni.swift in Sources */,
+				C6D3ADD52B95FA260080DEEB /* EserciziConsigliati.swift in Sources */,
+				5D6D534B2BA5AD11009B08A8 /* Pelvici.swift in Sources */,
+				5D88B1272BA4AC3200B38B26 /* funzioniEsercizizi.swift in Sources */,
+				5D8280862B8F7D6000C7A3E5 /* manageImage.swift in Sources */,
+				5D8280802B8F7CFE00C7A3E5 /* DiaryView.swift in Sources */,
+				C6461C412B7A3327001B73D0 /* ContentView.swift in Sources */,
+				C6461C652B7A3A43001B73D0 /* Credenziali.swift in Sources */,
+				5D6D534D2BA5AD19009B08A8 /* Yoga.swift in Sources */,
+				C6D3ADD32B95F9EF0080DEEB /* CategorieEx.swift in Sources */,
+				5D6D53532BA5AD64009B08A8 /* Pilates.swift in Sources */,
+				C6461C3F2B7A3327001B73D0 /* B_BApp.swift in Sources */,
+				5D8280822B8F7D3400C7A3E5 /* ImagePicker.swift in Sources */,
+				5D88B1252BA4ABE900B38B26 /* AllExcersicesView.swift in Sources */,
+				5D88B1292BA4B7BE00B38B26 /* contactPicker.swift in Sources */,
+				C6BE2DF12B8631BD00B83CB0 /* DatiGlobali.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C6461C472B7A3329001B73D0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C6143CEF2B9F44C1005120F5 /* Fitness.swift in Sources */,
+				5D6848522BA89ED500682920 /* notifiche.swift in Sources */,
+				C6461C512B7A3329001B73D0 /* B_BApp.swift in Sources */,
+				5D6D535B2BA61702009B08A8 /* ConnectivityWatch.swift in Sources */,
+				C6143CEE2B9F44C1005120F5 /* ContentView.swift in Sources */,
+				C6143CF02B9F44C1005120F5 /* countKick.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		C6461C4E2B7A3329001B73D0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = C6461C4A2B7A3329001B73D0 /* B&B Watch App */;
+			targetProxy = C6461C4D2B7A3329001B73D0 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		C6461C592B7A3329001B73D0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		C6461C5A2B7A3329001B73D0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		C6461C5C2B7A3329001B73D0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"B&B Watch App/Preview Content\"";
+				DEVELOPMENT_TEAM = T6UJ47GG9L;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "B-B-Watch-App-Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = WellMama;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = last.WellMama.ios;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = last.WellMama.ios.watchkitapp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 10.0;
+			};
+			name = Debug;
+		};
+		C6461C5D2B7A3329001B73D0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"B&B Watch App/Preview Content\"";
+				DEVELOPMENT_TEAM = T6UJ47GG9L;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "B-B-Watch-App-Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = WellMama;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = last.WellMama.ios;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = last.WellMama.ios.watchkitapp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				VALIDATE_PRODUCT = YES;
+				WATCHOS_DEPLOYMENT_TARGET = 10.0;
+			};
+			name = Release;
+		};
+		C6461C602B7A3329001B73D0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "B&B/B&B.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"B&B/Preview Content\"";
+				DEVELOPMENT_TEAM = T6UJ47GG9L;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "B-B-Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = WellMama;
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
+				INFOPLIST_KEY_NSCameraUsageDescription = "Questa app richiede l'accesso alla fotocamera per scattare foto.";
+				INFOPLIST_KEY_NSHealthShareUsageDescription = "La tua app richiede l'accesso ai dati di salute come passi e frequenza cardiaca per monitorare il tuo progresso nell'attività fisica.";
+				INFOPLIST_KEY_NSHealthUpdateUsageDescription = "La tua app richiede l'accesso in scrittura ai dati di salute per registrare le tue attività fisiche.";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "La tua app richiede l'accesso alla libreria foto per salvare immagini.";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = last.WellMama.ios;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		C6461C612B7A3329001B73D0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "B&B/B&B.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"B&B/Preview Content\"";
+				DEVELOPMENT_TEAM = T6UJ47GG9L;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "B-B-Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = WellMama;
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
+				INFOPLIST_KEY_NSCameraUsageDescription = "Questa app richiede l'accesso alla fotocamera per scattare foto.";
+				INFOPLIST_KEY_NSHealthShareUsageDescription = "La tua app richiede l'accesso ai dati di salute come passi e frequenza cardiaca per monitorare il tuo progresso nell'attività fisica.";
+				INFOPLIST_KEY_NSHealthUpdateUsageDescription = "La tua app richiede l'accesso in scrittura ai dati di salute per registrare le tue attività fisiche.";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "La tua app richiede l'accesso alla libreria foto per salvare immagini.";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = last.WellMama.ios;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C6461C362B7A3326001B73D0 /* Build configuration list for PBXProject "B&B" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C6461C592B7A3329001B73D0 /* Debug */,
+				C6461C5A2B7A3329001B73D0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C6461C5B2B7A3329001B73D0 /* Build configuration list for PBXNativeTarget "B&B Watch App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C6461C5C2B7A3329001B73D0 /* Debug */,
+				C6461C5D2B7A3329001B73D0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C6461C5F2B7A3329001B73D0 /* Build configuration list for PBXNativeTarget "B&B" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C6461C602B7A3329001B73D0 /* Debug */,
+				C6461C612B7A3329001B73D0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C6461C332B7A3326001B73D0 /* Project object */;
+}
